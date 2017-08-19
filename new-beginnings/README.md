@@ -1,7 +1,5 @@
 
-# Frontend Challenge #
-
-## Introduction ##
+# Challenge: "New Beginnings" #
 
 Thanks for taking the time to complete this challenge. We know it requires an investment of time on your part, but we think it'll help us both assess fit.
 
