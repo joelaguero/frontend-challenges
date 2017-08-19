@@ -8,7 +8,7 @@ Thanks for taking the time to complete this challenge. We know it requires an in
 Please don't spend more than 4-5 hours on it. We ultimately want a sense of how you think, how you code, how far you get, and how you justify decisions. Your welcome to use the output of this challenge on your own portfolio, regardless of whether or not we end up working together.
 
 
-#### Project Brief ####
+### Project Brief ###
 
 You're leading an autonomous R&D team of 15 engineers and 2 designers at an international software company, MEGA Corp. Your team is tasked with building an internal social network that will be used daily by 5-10k employees at your organization, for business-critical logistics like clocking-in/out, logging hours, documenting meeting notes, and more.
 
@@ -26,7 +26,7 @@ Please create a new repository and implement the foundation of your codebase the
 
 Ideally, this demonstration will show how each of the subsequent areas can be satisfied during development of a typical new feature.
 
-#### What We're Looking For ####
+### What We're Looking For ###
 
 Your codebase and demonstration should showcase the following: 
 
@@ -43,7 +43,7 @@ Your codebase and demonstration should showcase the following:
 	 - A philosophy on good documentation, when it is necessary, and code comments.
  - Anything else you deem helpful to make your team as productive as possible, make dev workflows as enjoyable as possible, and make the end result as stable as possible.
 
-#### What We Care About ####
+### What We Care About ###
 
 Ultimately, we want to see how you forecast team needs, design developer workflows, and evaluate trade-offs between ease of deployment, testing, new feature integration, security, and other common concerns when building and scaling web applications.
 
